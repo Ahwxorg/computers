@@ -1,12 +1,18 @@
 # Hosts
 
+## Servers
 
 ### Cloud
 
-- [cleffa]
-- [mia]
+- cleffa
+- mia
 
 ### Local
 
-- [julia]
-- [violet]
+- julia
+- violet
+
+## Personal machines
+
+- sakura
+- murmur
